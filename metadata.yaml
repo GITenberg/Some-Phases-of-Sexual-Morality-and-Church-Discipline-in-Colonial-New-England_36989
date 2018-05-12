@@ -1,0 +1,31 @@
+_repo: Some-Phases-of-Sexual-Morality-and-Church-Discipline-in-Colonial-New-England_36989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Charles Francis
+    aliases:
+    - Adams, C. F. (Charles Francis)
+    - Adams, Charles F. (Charles Francis)
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '3239'
+    url: http://www.gutenberg.org/2009/agents/3239
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Adams,_Jr.
+description: ''
+gutenberg_issued: '2011-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36989'
+  lccn: 01012390
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexual ethics'
+- !lcc 'F001'
+title: Some Phases of Sexual Morality and Church Discipline in Colonial New England
+url: http://www.gutenberg.org/ebooks/36989
