@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3239
     wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Adams,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36989#Some-Phases-of-Sexual-Morality-and-Church-Discipline-in-Colonial-New-England
 gutenberg_issued: '2011-08-06'
 gutenberg_type: Text
 identifiers:
